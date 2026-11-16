@@ -3,7 +3,7 @@ Estudiante de Ingeniería en Realidad Virtual y Diseño de
 Juegos Digitales (UBO). Desarrollo experiencias VR en Unity
 y C#.
 ## Proyectos destacados
-- [Simulador VR de RCP](enlace) · Unity
+- [Rusted Gear Steam](https://github.com/KenaiiChikito/Prototipo/tree/main?tab=readme-ov-file) · Unity · Jugable
 ## Herramientas
 Unity · C# · Blender · Git · Nomad Sculpt
 ## Contacto
