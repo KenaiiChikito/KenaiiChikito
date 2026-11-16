@@ -3,11 +3,11 @@ Estudiante de Ingeniería en Realidad Virtual y Diseño de
 Juegos Digitales (UBO). Desarrollo experiencias VR en Unity
 y C#.
 ## Proyectos destacados
-- [Rusted Gear Steam](https://github.com/KenaiiChikito/Prototipo/tree/main?tab=readme-ov-file) · Unity · Jugable
+- [Rusted Gear Steam](https://github.com/KenaiiChikito/Prototipo/tree/main?tab=readme-ov-file) · Unity · Descargable y Jugable
 ## Herramientas
 Unity · C# · Blender · Git · Nomad Sculpt
 ## Contacto
-[LinkedIn] · [correo] · [portafolio]
+[LinkedIn](https://www.linkedin.com/in/KenaiiChikito) · [correo](m.gomez.cornejo2001@gmail.com) · [portafolio](https://kenaiichikito.github.io/JGCPortfolio/)
 
 <!--
 **KenaiiChikito/KenaiiChikito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
