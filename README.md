@@ -7,8 +7,7 @@ y C#.
 ## Herramientas
 Unity · C# · Blender · Git · Nomad Sculpt
 ## Contacto
-[LinkedIn](https://www.linkedin.com/in/KenaiiChikito) · [correo](https://google.com/m.gomez.cornejo2001@gmail.com
-) · [portafolio](https://kenaiichikito.github.io/JGCPortfolio/)
+[LinkedIn](https://www.linkedin.com/in/KenaiiChikito) · [correo](https://google.com?view=cm&fs=1&to=h.gomez.cornejo2001@gmail.com) · [portafolio](https://kenaiichikito.github.io/JGCPortfolio/)
 
 <!--
 **KenaiiChikito/KenaiiChikito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
