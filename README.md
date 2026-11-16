@@ -1,4 +1,13 @@
 ## Hi, im Juan Gomez 👋
+Estudiante de Ingeniería en Realidad Virtual y Diseño de
+Juegos Digitales (UBO). Desarrollo experiencias VR en Unity
+y C#.
+## Proyectos destacados
+- [Simulador VR de RCP](enlace) · Unity
+## Herramientas
+Unity · C# · Blender · Git · Nomad Sculpt
+## Contacto
+[LinkedIn] · [correo] · [portafolio]
 
 <!--
 **KenaiiChikito/KenaiiChikito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
